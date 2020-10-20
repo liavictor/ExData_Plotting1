@@ -25,7 +25,7 @@ with(newsub,{
         lines(datetime, as.numeric(newsub$Sub_metering_2),col="red")
         lines(datetime, as.numeric(newsub$Sub_metering_3),col="blue")
         legend("topright", c("Sub_metering_1", "Sub_metering_2", "Sub_metering_3"), lty=1, cex=0.9, bty="n", col=c("black", "red", "blue"))
-        plot(datetime, as.numeric(newsub$Global_active_power),type="l",xlab="datetime",ylab="Global_reactive_power")
+        plot(datetime, as.numeric(newsub$Global_reactive_power),type="l",xlab="datetime",ylab="Global_reactive_power")
 })
 
 dev.off()
