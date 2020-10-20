@@ -15,7 +15,7 @@ datetime <- strptime(paste(subData$Date, subData$Time, sep=" "), "%d/%m/%Y %H:%M
 plot(datetime, as.numeric(subData$Global_active_power), 
      type="l", 
      xlab="", 
-     ylab="Global Active power (kilowatts)")
+     ylab="Global Active Power (kilowatts)")
 
 ## step 4 plot the #2 graph png file into the working directory.
 png("plot2.png", width=480, height=480)
