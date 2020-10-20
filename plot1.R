@@ -1,4 +1,4 @@
-### Exploratory Data Analysis Course Project 1: Codes to create plot #1 Histogram for "Global Activ Power"
+### Exploratory Data Analysis Course Project 1: Codes to create plot #1 Histogram for "Global Active Power"
 ### make sure to download source data and unzip file in the working directory.
 
 ## step 1 load the data from unzipped text file

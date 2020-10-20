@@ -1,4 +1,4 @@
-### Exploratory Data Analysis Course Project 1: Codes to create plot #3: Energy sub meeting"
+### Exploratory Data Analysis Course Project 1: Codes to create plot #3: Energy sub metering"
 ### make sure to download source data and unzip file in the working directory.
 
 ## step 1: load the data from unzipped text file
